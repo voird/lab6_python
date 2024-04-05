@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<guests>
+		<guest>
+			<id>89</id>
+			<name>Доктор Рацио</name>
+			<email>drgenious@example.com</email>
+		</guest>
+		<guest>
+			<id>90</id>
+			<name>Вергилий</name>
+			<email>iamastormthatisapproaching@example.com</email>
+		</guest>
+		<guest>
+			<id>91</id>
+			<name>Данте</name>
+			<email>devilmaycry@example.com</email>
+		</guest>
+		<guest>
+			<id>92</id>
+			<name>bukdorser</name>
+			<email>lapochka202@mail.ru</email>
+		</guest>
+	</guests>
